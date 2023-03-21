@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"unknown-suffering-new",
+			"dad",
+			[
+				106,
+				120,
+				133
+			]
+		],
+		[
+			"hellhole-lapsus",
+			"dad",
+			[
+				106,
+				120,
+				133
+			]
+		],
+		[
+			"vesania-awemix",
+			"mouse",
+			[
+				106,
+				120,
+				133
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

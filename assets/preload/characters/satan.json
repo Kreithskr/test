@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"name": "SATAN IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-90,
+				111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"name": "SATAN LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				90,
+				-123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"name": "SATAN DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-50,
+				184
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"name": "SATAN UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-155,
+				77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"name": "SATAN RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-34,
+				337
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "spawn",
+			"name": "SATAN APARICION",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"name": "JUJUJUJA",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-34,
+				337
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "chaufa",
+			"name": "SATAN DISAPAIR",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SATAN ASSETS",
+	"position": [
+		320,
+		300
+	],
+	"healthicon": "satan",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		71,
+		71
+	],
+	"camera_position": [
+		-880,
+		-870
+	],
+	"sing_duration": 3.80000000000001,
+	"scale": 3.65
+}

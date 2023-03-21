@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				79,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"name": "MIKI LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-19,
+				-115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"name": "MIKI DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				24,
+				154
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"name": "Miki UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-232,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"name": "MIKI RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"name": "MIKI IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/inferno mickey",
+	"position": [
+		-180,
+		265
+	],
+	"healthicon": "hellholemickey",
+	"flip_x": false,
+	"healthbar_colors": [
+		42,
+		46,
+		40
+	],
+	"camera_position": [
+		-230,
+		-320
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

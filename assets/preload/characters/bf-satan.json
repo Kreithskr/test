@@ -1,0 +1,154 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"name": "BF LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"name": "BF DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-54,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"name": "BF UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-28,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"name": "BF RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				13,
+				64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"name": "MISS LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				12,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"name": "MISS DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-28,
+				85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"name": "MISS UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-15,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"name": "MISS RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				67,
+				93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"name": "BF FIRST DEATH"
+		},
+		{
+			"offsets": [
+				-5,
+				94
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"name": "BF DEATH LOOP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"name": "BF DEATH CPNFIRM",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/inferno_BF",
+	"position": [
+		95,
+		415
+	],
+	"healthicon": "hellholebf",
+	"flip_x": true,
+	"healthbar_colors": [
+		125,
+		128,
+		142
+	],
+	"camera_position": [
+		0,
+		-240
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

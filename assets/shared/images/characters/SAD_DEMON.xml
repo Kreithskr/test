@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="SAD_DEMON.png" width="3897" height="3985">
+  <SubTexture name="SAD DEMON DOWN0001" x="0" y="0"  width="304.2" height="269.75" frameX="-1.3" frameY="-13" frameWidth="308.1" frameHeight="288.6"/>
+  <SubTexture name="SAD DEMON LEFT0007" x="304.2" y="0"  width="307.45" height="270.40000000000003" frameX="-1.3" frameY="-10.4" frameWidth="311.35" frameHeight="309.40000000000003"/>
+  <SubTexture name="SAD DEMON LEFT0008" x="611.65" y="0"  width="307.45" height="271.05" frameX="-1.3" frameY="-10.4" frameWidth="311.35" frameHeight="309.40000000000003"/>
+  <SubTexture name="SAD DEMON LEFT0009" x="919.1" y="0"  width="307.45" height="271.05" frameX="-1.3" frameY="-10.4" frameWidth="311.35" frameHeight="309.40000000000003"/>
+  <SubTexture name="SAD DEMON DOWN0003" x="1226.55" y="0"  width="302.25" height="275.6" frameX="-0.65" frameY="-5.8500000000000005" frameWidth="308.1" frameHeight="288.6"/>
+  <SubTexture name="SAD DEMON DOWN0005" x="1528.8" y="0"  width="300.95" height="276.90000000000003" frameX="-0.65" frameY="-5.2" frameWidth="308.1" frameHeight="288.6"/>
+  <SubTexture name="SAD DEMON IDLE0013" x="1829.75" y="0"  width="305.5" height="278.85" frameX="-0.65" frameY="-0.65" frameWidth="308.75" frameHeight="290.55"/>
+  <SubTexture name="SAD DEMON IDLE0015" x="2135.25" y="0"  width="305.5" height="278.85" frameX="-0.65" frameY="-0.65" frameWidth="308.75" frameHeight="290.55"/>
+  <SubTexture name="SAD DEMON LEFT0006" x="2440.75" y="0"  width="307.45" height="278.85" frameX="-1.3" frameY="-2.6" frameWidth="311.35" frameHeight="309.40000000000003"/>
+  <SubTexture name="SAD DEMON IDLE0001" x="2748.2000000000003" y="0"  width="259.35" height="279.5" frameX="-1.3" frameY="-7.800000000000001" frameWidth="308.75" frameHeight="290.55"/>
+  <SubTexture name="SAD DEMON IDLE0003" x="3007.55" y="0"  width="260" height="280.8" frameX="-1.3" frameY="-6.5" frameWidth="308.75" frameHeight="290.55"/>
+  <SubTexture name="SAD DEMON IDLE0005" x="3267.55" y="0"  width="258.05" height="283.40000000000003" frameX="-3.25" frameY="-3.9000000000000004" frameWidth="308.75" frameHeight="290.55"/>
+  <SubTexture name="SAD DEMON IDLE0007" x="3525.6" y="0"  width="257.40000000000003" height="283.40000000000003" frameX="-2.6" frameY="-3.9000000000000004" frameWidth="308.75" frameHeight="290.55"/>
+  <SubTexture name="SAD DEMON IDLE0009" x="0" y="269.75"  width="256.1" height="283.40000000000003" frameX="-2.6" frameY="-3.9000000000000004" frameWidth="308.75" frameHeight="290.55"/>
+  <SubTexture name="SAD DEMON IDLE0011" x="256.1" y="270.40000000000003"  width="256.1" height="283.40000000000003" frameX="-2.6" frameY="-3.9000000000000004" frameWidth="308.75" frameHeight="290.55"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0001" x="512.2" y="271.05"  width="330.2" height="284.7" frameX="-125.45" frameY="-140.4" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON DOWN0007" x="842.4" y="271.05"  width="233.35" height="285.35" frameX="-9.75" frameY="-0.65" frameWidth="308.1" frameHeight="288.6"/>
+  <SubTexture name="SAD DEMON DOWN0009" x="1075.75" y="275.6"  width="234" height="285.35" frameX="-9.1" frameY="-0.65" frameWidth="308.1" frameHeight="288.6"/>
+  <SubTexture name="SAD DEMON RIGHT0001" x="1309.75" y="276.90000000000003"  width="293.8" height="287.95" frameX="-1.3" frameY="-13.65" frameWidth="297.05" frameHeight="334.1"/>
+  <SubTexture name="SAD DEMON RIGHT0005" x="1603.55" y="278.85"  width="290.55" height="288.6" frameX="-0.65" frameY="-13.65" frameWidth="297.05" frameHeight="334.1"/>
+  <SubTexture name="SAD DEMON RIGHT0003" x="1894.1000000000001" y="278.85"  width="291.2" height="289.25" frameX="-1.3" frameY="-13" frameWidth="297.05" frameHeight="334.1"/>
+  <SubTexture name="SAD DEMON UP0005" x="2185.3" y="278.85"  width="240.5" height="293.15000000000003" frameX="-11.05" frameY="-4.55" frameWidth="317.2" frameHeight="321.1"/>
+  <SubTexture name="SAD DEMON UP0007" x="2425.8" y="278.85"  width="252.85000000000002" height="293.8" frameX="-2.6" frameY="-3.9000000000000004" frameWidth="317.2" frameHeight="321.1"/>
+  <SubTexture name="SAD DEMON UP0003" x="2678.65" y="279.5"  width="239.85" height="295.75" frameX="-11.05" frameY="-1.9500000000000002" frameWidth="317.2" frameHeight="321.1"/>
+  <SubTexture name="SAD DEMON UP0001" x="2918.5" y="280.8"  width="234" height="296.40000000000003" frameX="-14.3" frameY="-1.3" frameWidth="317.2" frameHeight="321.1"/>
+  <SubTexture name="SAD DEMON LEFT0005" x="3152.5" y="283.40000000000003"  width="245.05" height="304.2" frameX="-10.4" frameY="-2.6" frameWidth="311.35" frameHeight="309.40000000000003"/>
+  <SubTexture name="SAD DEMON LEFT0003" x="3397.55" y="283.40000000000003"  width="249.60000000000002" height="304.85" frameX="-5.8500000000000005" frameY="-1.9500000000000002" frameWidth="311.35" frameHeight="309.40000000000003"/>
+  <SubTexture name="SAD DEMON LEFT0004" x="3647.15" y="283.40000000000003"  width="249.60000000000002" height="304.85" frameX="-5.8500000000000005" frameY="-1.9500000000000002" frameWidth="311.35" frameHeight="309.40000000000003"/>
+  <SubTexture name="SAD DEMON LEFT0001" x="0" y="553.15"  width="249.60000000000002" height="306.15000000000003" frameX="-3.9000000000000004" frameY="-0.65" frameWidth="311.35" frameHeight="309.40000000000003"/>
+  <SubTexture name="SAD DEMON RIGHT0007" x="249.60000000000002" y="553.8000000000001"  width="258.7" height="317.2" frameX="-23.400000000000002" frameY="-13.65" frameWidth="297.05" frameHeight="334.1"/>
+  <SubTexture name="SAD DEMON RIGHT0009" x="508.3" y="555.75"  width="222.3" height="330.2" frameX="-23.400000000000002" frameY="-0.65" frameWidth="297.05" frameHeight="334.1"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0003" x="730.6" y="560.95"  width="389.35" height="381.55" frameX="-53.300000000000004" frameY="-43.550000000000004" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0002" x="1119.95" y="564.85"  width="402.35" height="382.2" frameX="-53.300000000000004" frameY="-42.9" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0012" x="1522.3" y="568.1"  width="432.25" height="408.2" frameX="-7.800000000000001" frameY="-16.900000000000002" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0004" x="1954.55" y="572"  width="442" height="410.15000000000003" frameX="-0.65" frameY="-14.950000000000001" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0005" x="2396.55" y="575.25"  width="429.65000000000003" height="410.15000000000003" frameX="-0.65" frameY="-14.950000000000001" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0010" x="2826.2000000000003" y="587.6"  width="429.65000000000003" height="412.75" frameX="-11.05" frameY="-12.35" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0011" x="3255.85" y="588.25"  width="429" height="412.75" frameX="-11.05" frameY="-12.35" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0006" x="0" y="871"  width="419.90000000000003" height="422.5" frameX="-10.4" frameY="-2.6" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0007" x="419.90000000000003" y="942.5"  width="429" height="422.5" frameX="-10.4" frameY="-2.6" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0014" x="848.9" y="947.0500000000001"  width="429.65000000000003" height="422.5" frameX="-10.4" frameY="-2.6" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0008" x="1278.55" y="976.3000000000001"  width="429" height="423.8" frameX="-10.4" frameY="-1.3" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0009" x="1707.55" y="982.15"  width="430.3" height="423.8" frameX="-10.4" frameY="-1.3" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0016" x="2137.85" y="985.4"  width="429.65000000000003" height="423.8" frameX="-10.4" frameY="-1.3" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SATAN DOWN0008" x="2567.5" y="1000.35"  width="525.2" height="434.2" frameX="-68.9" frameY="-24.05" frameWidth="664.3000000000001" frameHeight="461.5"/>
+  <SubTexture name="SATAN DOWN0005" x="3092.7000000000003" y="1001"  width="650" height="441.35" frameX="-0.65" frameY="-17.55" frameWidth="664.3000000000001" frameHeight="461.5"/>
+  <SubTexture name="SATAN DOWN0006" x="0" y="1365"  width="619.45" height="441.35" frameX="-0.65" frameY="-17.55" frameWidth="664.3000000000001" frameHeight="461.5"/>
+  <SubTexture name="SATAN DOWN0003" x="619.45" y="1369.55"  width="619.45" height="443.3" frameX="-0.65" frameY="-15.600000000000001" frameWidth="664.3000000000001" frameHeight="461.5"/>
+  <SubTexture name="SATAN DOWN0004" x="1238.9" y="1405.95"  width="661.0500000000001" height="443.3" frameX="-0.65" frameY="-15.600000000000001" frameWidth="664.3000000000001" frameHeight="461.5"/>
+  <SubTexture name="SATAN DOWN0001" x="1899.95" y="1409.2"  width="661.0500000000001" height="445.90000000000003" frameX="-0.65" frameY="-13" frameWidth="664.3000000000001" frameHeight="461.5"/>
+  <SubTexture name="SATAN DOWN0002" x="2561" y="1442.3500000000001"  width="650" height="445.90000000000003" frameX="-0.65" frameY="-13" frameWidth="664.3000000000001" frameHeight="461.5"/>
+  <SubTexture name="SATAN RIGHT0001" x="3211" y="1442.3500000000001"  width="631.15" height="447.85" frameX="-6.5" frameY="-15.600000000000001" frameWidth="639.6" frameHeight="466.05"/>
+  <SubTexture name="SATAN RIGHT0003" x="0" y="1806.3500000000001"  width="617.5" height="454.35" frameX="-5.2" frameY="-9.1" frameWidth="639.6" frameHeight="466.05"/>
+  <SubTexture name="SATAN RIGHT0005" x="617.5" y="1812.8500000000001"  width="616.85" height="454.35" frameX="-5.2" frameY="-9.1" frameWidth="639.6" frameHeight="466.05"/>
+  <SubTexture name="SATAN DOWN0007" x="1234.3500000000001" y="1849.25"  width="568.75" height="455.65000000000003" frameX="-44.85" frameY="-0.65" frameWidth="664.3000000000001" frameHeight="461.5"/>
+  <SubTexture name="SATAN RIGHT0008" x="1803.1000000000001" y="1855.1000000000001"  width="596.7" height="455.65000000000003" frameX="-0.65" frameY="-7.800000000000001" frameWidth="639.6" frameHeight="466.05"/>
+  <SubTexture name="SATAN LEFT0008" x="2399.8" y="1888.25"  width="604.5" height="458.90000000000003" frameX="-120.9" frameY="-53.300000000000004" frameWidth="727.35" frameHeight="514.8000000000001"/>
+  <SubTexture name="SATAN RIGHT0007" x="3004.3" y="1890.2"  width="607.75" height="462.8" frameX="-9.75" frameY="-0.65" frameWidth="639.6" frameHeight="466.05"/>
+  <SubTexture name="SATAN LEFT0007" x="0" y="2260.7000000000003"  width="585.65" height="482.3" frameX="-68.9" frameY="-29.900000000000002" frameWidth="727.35" frameHeight="514.8000000000001"/>
+  <SubTexture name="SATAN LEFT0002" x="585.65" y="2267.2000000000003"  width="621.4" height="502.45000000000005" frameX="-3.9000000000000004" frameY="-9.75" frameWidth="727.35" frameHeight="514.8000000000001"/>
+  <SubTexture name="SATAN UP0008" x="1207.05" y="2304.9"  width="464.1" height="503.75" frameX="-81.25" frameY="-76.7" frameWidth="549.25" frameHeight="586.95"/>
+  <SubTexture name="SATAN LEFT0001" x="1671.15" y="2310.75"  width="654.5500000000001" height="502.45000000000005" frameX="-3.9000000000000004" frameY="-9.75" frameWidth="727.35" frameHeight="514.8000000000001"/>
+  <SubTexture name="SATAN LEFT0003" x="2325.7000000000003" y="2347.15"  width="651.3000000000001" height="511.55" frameX="-1.9500000000000002" frameY="-0.65" frameWidth="727.35" frameHeight="514.8000000000001"/>
+  <SubTexture name="SATAN LEFT0004" x="2977" y="2353"  width="654.5500000000001" height="511.55" frameX="-1.9500000000000002" frameY="-0.65" frameWidth="727.35" frameHeight="514.8000000000001"/>
+  <SubTexture name="SATAN LEFT0005" x="0" y="2769.65"  width="622.0500000000001" height="511.55" frameX="-0.65" frameY="-0.65" frameWidth="727.35" frameHeight="514.8000000000001"/>
+  <SubTexture name="SATAN IDLE0013" x="622.0500000000001" y="2769.65"  width="458.25" height="538.85" frameX="-17.55" frameY="-16.900000000000002" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN LEFT0006" x="1080.3" y="2813.2000000000003"  width="651.95" height="511.55" frameX="-0.65" frameY="-0.65" frameWidth="727.35" frameHeight="514.8000000000001"/>
+  <SubTexture name="SATAN IDLE0015" x="1732.25" y="2813.2000000000003"  width="456.95" height="538.85" frameX="-18.85" frameY="-16.900000000000002" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN IDLE0016" x="2189.2000000000003" y="2858.7000000000003"  width="454.35" height="538.85" frameX="-21.45" frameY="-16.900000000000002" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN IDLE0009" x="2643.55" y="2864.55"  width="460.85" height="539.5" frameX="-8.450000000000001" frameY="-16.25" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN IDLE0011" x="3104.4" y="2864.55"  width="458.25" height="539.5" frameX="-14.3" frameY="-16.25" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN IDLE0007" x="0" y="3281.2000000000003"  width="443.95" height="546" frameX="-5.8500000000000005" frameY="-9.75" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN IDLE0005" x="443.95" y="3308.5"  width="435.5" height="551.2" frameX="-5.2" frameY="-4.55" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN IDLE0001" x="879.45" y="3324.75"  width="438.1" height="554.45" frameX="-15.600000000000001" frameY="-1.3" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN IDLE0003" x="1317.55" y="3352.05"  width="444.6" height="554.45" frameX="-0.65" frameY="-1.3" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN UP0007" x="1762.15" y="3397.55"  width="475.8" height="574.6" frameX="-49.4" frameY="-7.800000000000001" frameWidth="549.25" frameHeight="586.95"/>
+  <SubTexture name="SATAN UP0003" x="2237.9500000000003" y="3404.05"  width="544.0500000000001" height="579.15" frameX="-3.25" frameY="-3.25" frameWidth="549.25" frameHeight="586.95"/>
+  <SubTexture name="SATAN UP0001" x="2782" y="3404.05"  width="538.2" height="580.45" frameX="-6.5" frameY="-1.9500000000000002" frameWidth="549.25" frameHeight="586.95"/>
+  <SubTexture name="SATAN UP0005" x="3320.2000000000003" y="3404.05"  width="543.4" height="581.1" frameX="-1.3" frameY="-1.3" frameWidth="549.25" frameHeight="586.95"/>
+  <SubTexture name="SAD DEMON DOWN0002" x="0" y="0"  width="304.2" height="269.75" frameX="-1.3" frameY="-13" frameWidth="308.1" frameHeight="288.6"/>
+  <SubTexture name="SAD DEMON DOWN0004" x="1226.55" y="0"  width="302.25" height="275.6" frameX="-0.65" frameY="-5.8500000000000005" frameWidth="308.1" frameHeight="288.6"/>
+  <SubTexture name="SAD DEMON DOWN0006" x="1528.8" y="0"  width="300.95" height="276.90000000000003" frameX="-0.65" frameY="-5.2" frameWidth="308.1" frameHeight="288.6"/>
+  <SubTexture name="SAD DEMON DOWN0008" x="842.4" y="271.05"  width="233.35" height="285.35" frameX="-9.75" frameY="-0.65" frameWidth="308.1" frameHeight="288.6"/>
+  <SubTexture name="SAD DEMON IDLE0002" x="2748.2000000000003" y="0"  width="259.35" height="279.5" frameX="-1.3" frameY="-7.800000000000001" frameWidth="308.75" frameHeight="290.55"/>
+  <SubTexture name="SAD DEMON IDLE0004" x="3007.55" y="0"  width="260" height="280.8" frameX="-1.3" frameY="-6.5" frameWidth="308.75" frameHeight="290.55"/>
+  <SubTexture name="SAD DEMON IDLE0006" x="3267.55" y="0"  width="258.05" height="283.40000000000003" frameX="-3.25" frameY="-3.9000000000000004" frameWidth="308.75" frameHeight="290.55"/>
+  <SubTexture name="SAD DEMON IDLE0008" x="3525.6" y="0"  width="257.40000000000003" height="283.40000000000003" frameX="-2.6" frameY="-3.9000000000000004" frameWidth="308.75" frameHeight="290.55"/>
+  <SubTexture name="SAD DEMON IDLE0010" x="0" y="269.75"  width="256.1" height="283.40000000000003" frameX="-2.6" frameY="-3.9000000000000004" frameWidth="308.75" frameHeight="290.55"/>
+  <SubTexture name="SAD DEMON IDLE0012" x="256.1" y="270.40000000000003"  width="256.1" height="283.40000000000003" frameX="-2.6" frameY="-3.9000000000000004" frameWidth="308.75" frameHeight="290.55"/>
+  <SubTexture name="SAD DEMON IDLE0014" x="1829.75" y="0"  width="305.5" height="278.85" frameX="-0.65" frameY="-0.65" frameWidth="308.75" frameHeight="290.55"/>
+  <SubTexture name="SAD DEMON IDLE0016" x="2135.25" y="0"  width="305.5" height="278.85" frameX="-0.65" frameY="-0.65" frameWidth="308.75" frameHeight="290.55"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0018" x="3255.85" y="588.25"  width="429" height="412.75" frameX="-11.05" frameY="-12.35" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0019" x="3255.85" y="588.25"  width="429" height="412.75" frameX="-11.05" frameY="-12.35" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0026" x="3255.85" y="588.25"  width="429" height="412.75" frameX="-11.05" frameY="-12.35" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0027" x="3255.85" y="588.25"  width="429" height="412.75" frameX="-11.05" frameY="-12.35" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0034" x="3255.85" y="588.25"  width="429" height="412.75" frameX="-11.05" frameY="-12.35" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0035" x="3255.85" y="588.25"  width="429" height="412.75" frameX="-11.05" frameY="-12.35" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0042" x="3255.85" y="588.25"  width="429" height="412.75" frameX="-11.05" frameY="-12.35" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0043" x="3255.85" y="588.25"  width="429" height="412.75" frameX="-11.05" frameY="-12.35" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0013" x="1522.3" y="568.1"  width="432.25" height="408.2" frameX="-7.800000000000001" frameY="-16.900000000000002" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0020" x="1522.3" y="568.1"  width="432.25" height="408.2" frameX="-7.800000000000001" frameY="-16.900000000000002" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0021" x="1522.3" y="568.1"  width="432.25" height="408.2" frameX="-7.800000000000001" frameY="-16.900000000000002" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0028" x="1522.3" y="568.1"  width="432.25" height="408.2" frameX="-7.800000000000001" frameY="-16.900000000000002" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0029" x="1522.3" y="568.1"  width="432.25" height="408.2" frameX="-7.800000000000001" frameY="-16.900000000000002" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0036" x="1522.3" y="568.1"  width="432.25" height="408.2" frameX="-7.800000000000001" frameY="-16.900000000000002" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0037" x="1522.3" y="568.1"  width="432.25" height="408.2" frameX="-7.800000000000001" frameY="-16.900000000000002" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0044" x="1522.3" y="568.1"  width="432.25" height="408.2" frameX="-7.800000000000001" frameY="-16.900000000000002" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0045" x="1522.3" y="568.1"  width="432.25" height="408.2" frameX="-7.800000000000001" frameY="-16.900000000000002" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0015" x="848.9" y="947.0500000000001"  width="429.65000000000003" height="422.5" frameX="-10.4" frameY="-2.6" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0022" x="848.9" y="947.0500000000001"  width="429.65000000000003" height="422.5" frameX="-10.4" frameY="-2.6" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0023" x="848.9" y="947.0500000000001"  width="429.65000000000003" height="422.5" frameX="-10.4" frameY="-2.6" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0030" x="848.9" y="947.0500000000001"  width="429.65000000000003" height="422.5" frameX="-10.4" frameY="-2.6" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0031" x="848.9" y="947.0500000000001"  width="429.65000000000003" height="422.5" frameX="-10.4" frameY="-2.6" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0038" x="848.9" y="947.0500000000001"  width="429.65000000000003" height="422.5" frameX="-10.4" frameY="-2.6" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0039" x="848.9" y="947.0500000000001"  width="429.65000000000003" height="422.5" frameX="-10.4" frameY="-2.6" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0017" x="2137.85" y="985.4"  width="429.65000000000003" height="423.8" frameX="-10.4" frameY="-1.3" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0024" x="2137.85" y="985.4"  width="429.65000000000003" height="423.8" frameX="-10.4" frameY="-1.3" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0025" x="2137.85" y="985.4"  width="429.65000000000003" height="423.8" frameX="-10.4" frameY="-1.3" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0032" x="2137.85" y="985.4"  width="429.65000000000003" height="423.8" frameX="-10.4" frameY="-1.3" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0033" x="2137.85" y="985.4"  width="429.65000000000003" height="423.8" frameX="-10.4" frameY="-1.3" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0040" x="2137.85" y="985.4"  width="429.65000000000003" height="423.8" frameX="-10.4" frameY="-1.3" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON JUJUJUJA0041" x="2137.85" y="985.4"  width="429.65000000000003" height="423.8" frameX="-10.4" frameY="-1.3" frameWidth="458.25" frameHeight="428.35"/>
+  <SubTexture name="SAD DEMON LEFT0002" x="0" y="553.15"  width="249.60000000000002" height="306.15000000000003" frameX="-3.9000000000000004" frameY="-0.65" frameWidth="311.35" frameHeight="309.40000000000003"/>
+  <SubTexture name="SAD DEMON RIGHT0002" x="1309.75" y="276.90000000000003"  width="293.8" height="287.95" frameX="-1.3" frameY="-13.65" frameWidth="297.05" frameHeight="334.1"/>
+  <SubTexture name="SAD DEMON RIGHT0004" x="1894.1000000000001" y="278.85"  width="291.2" height="289.25" frameX="-1.3" frameY="-13" frameWidth="297.05" frameHeight="334.1"/>
+  <SubTexture name="SAD DEMON RIGHT0006" x="1603.55" y="278.85"  width="290.55" height="288.6" frameX="-0.65" frameY="-13.65" frameWidth="297.05" frameHeight="334.1"/>
+  <SubTexture name="SAD DEMON RIGHT0008" x="249.60000000000002" y="553.8000000000001"  width="258.7" height="317.2" frameX="-23.400000000000002" frameY="-13.65" frameWidth="297.05" frameHeight="334.1"/>
+  <SubTexture name="SAD DEMON UP0002" x="2918.5" y="280.8"  width="234" height="296.40000000000003" frameX="-14.3" frameY="-1.3" frameWidth="317.2" frameHeight="321.1"/>
+  <SubTexture name="SAD DEMON UP0004" x="2678.65" y="279.5"  width="239.85" height="295.75" frameX="-11.05" frameY="-1.9500000000000002" frameWidth="317.2" frameHeight="321.1"/>
+  <SubTexture name="SAD DEMON UP0006" x="2185.3" y="278.85"  width="240.5" height="293.15000000000003" frameX="-11.05" frameY="-4.55" frameWidth="317.2" frameHeight="321.1"/>
+  <SubTexture name="SAD DEMON UP0008" x="2425.8" y="278.85"  width="252.85000000000002" height="293.8" frameX="-2.6" frameY="-3.9000000000000004" frameWidth="317.2" frameHeight="321.1"/>
+  <SubTexture name="SATAN IDLE0002" x="879.45" y="3324.75"  width="438.1" height="554.45" frameX="-15.600000000000001" frameY="-1.3" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN IDLE0004" x="1317.55" y="3352.05"  width="444.6" height="554.45" frameX="-0.65" frameY="-1.3" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN IDLE0006" x="443.95" y="3308.5"  width="435.5" height="551.2" frameX="-5.2" frameY="-4.55" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN IDLE0008" x="0" y="3281.2000000000003"  width="443.95" height="546" frameX="-5.8500000000000005" frameY="-9.75" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN IDLE0010" x="2643.55" y="2864.55"  width="460.85" height="539.5" frameX="-8.450000000000001" frameY="-16.25" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN IDLE0012" x="3104.4" y="2864.55"  width="458.25" height="539.5" frameX="-14.3" frameY="-16.25" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN IDLE0014" x="622.0500000000001" y="2769.65"  width="458.25" height="538.85" frameX="-17.55" frameY="-16.900000000000002" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN IDLE0017" x="2189.2000000000003" y="2858.7000000000003"  width="454.35" height="538.85" frameX="-21.45" frameY="-16.900000000000002" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN IDLE0018" x="2189.2000000000003" y="2858.7000000000003"  width="454.35" height="538.85" frameX="-21.45" frameY="-16.900000000000002" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN IDLE0019" x="2189.2000000000003" y="2858.7000000000003"  width="454.35" height="538.85" frameX="-21.45" frameY="-16.900000000000002" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN IDLE0020" x="2189.2000000000003" y="2858.7000000000003"  width="454.35" height="538.85" frameX="-21.45" frameY="-16.900000000000002" frameWidth="477.75" frameHeight="559"/>
+  <SubTexture name="SATAN RIGHT0002" x="3211" y="1442.3500000000001"  width="631.15" height="447.85" frameX="-6.5" frameY="-15.600000000000001" frameWidth="639.6" frameHeight="466.05"/>
+  <SubTexture name="SATAN RIGHT0004" x="0" y="1806.3500000000001"  width="617.5" height="454.35" frameX="-5.2" frameY="-9.1" frameWidth="639.6" frameHeight="466.05"/>
+  <SubTexture name="SATAN RIGHT0006" x="617.5" y="1812.8500000000001"  width="616.85" height="454.35" frameX="-5.2" frameY="-9.1" frameWidth="639.6" frameHeight="466.05"/>
+  <SubTexture name="SATAN UP0002" x="2782" y="3404.05"  width="538.2" height="580.45" frameX="-6.5" frameY="-1.9500000000000002" frameWidth="549.25" frameHeight="586.95"/>
+  <SubTexture name="SATAN UP0004" x="2237.9500000000003" y="3404.05"  width="544.0500000000001" height="579.15" frameX="-3.25" frameY="-3.25" frameWidth="549.25" frameHeight="586.95"/>
+  <SubTexture name="SATAN UP0006" x="3320.2000000000003" y="3404.05"  width="543.4" height="581.1" frameX="-1.3" frameY="-1.3" frameWidth="549.25" frameHeight="586.95"/>
+</TextureAtlas>
